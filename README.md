@@ -1,6 +1,6 @@
 # Información de Krasmoroze
 Krasmoroze, es una librería de Python que permite extraer contenido de documentos HTML y transformarlo en una lista, matriz o diccionario. Además, es una biblioteca que proporciona una forma sencilla y eficiente de trabajar con operaciones de E/S asíncronas, como comunicación de red, E/S de archivos y otros tipos de tareas de E/S, permitiendo esperar a que se completen varias operaciones de E/S y luego ejecutar el código apropiado en función de cuál se complete primero. Por otro lado, Requests es una biblioteca cliente HTTP que facilita enormemente el trabajo con peticiones HTTP, siendo una herramienta útil en diversos proyectos.
-> El nombre Krasmoroze significa en  español "Belleza gelida" que en verdad es el significado de красивый мороз pero no de la palabra y el como se escrive sino viene del como suena la palabra que seria "krasivyy moroz".
+> El nombre Krasmoroze significa en  español "Belleza gelida" que en verdad es el significado de красивый мороз pero no de la palabra y el como se escribe sino viene del como suena la palabra que seria "krasivyy moroz".
 
 ## Adiciones por hacer
 
